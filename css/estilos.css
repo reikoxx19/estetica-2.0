@@ -1,0 +1,93 @@
+.tamano{
+	height: 400px;
+	width:500px;
+}
+
+.letra{
+
+	font-family:'Roboto',sans serif;
+	color:#4B474A;
+	font-size:18px;
+}
+
+.letra:hover{
+	color:#000000;
+}
+
+
+
+.title{
+	font-size:20px;
+}
+
+.jumbotron-2{
+
+	background:#C2B5B5 ;
+    padding:10px;
+}
+
+.bg-footer{
+	
+	color:#000;
+	text-align:center;
+
+}
+
+.footer{
+	font-size:18px;
+	font-style:italic;
+	color:black;
+}
+
+.decoration{
+
+	color:#000;
+
+}
+.decoration:hover{
+color:#000;
+
+}
+
+.tamano2{
+	height: 200px;
+	width:200px;
+}
+
+.body{
+
+	background-image:url("../img/background_bio.jpg"); 
+	background-repeat:no-repeat;
+	background-size: 100%;
+}
+
+
+
+.alert{
+	
+	padding: 10px;
+	color: #fff;
+	border-radius: 2px;
+	margin-bottom: 20px;
+	font-size:14px;
+}
+
+.alert.error{
+
+	background: #f2dede;
+	border: 1px solid #a94442;
+	color: #a94442;
+}
+
+.alert.success{
+
+	background: #4caf50;
+	border: 1px solid #4caf50;
+	color:white;
+}
+.body-promos{
+
+	background-image: url("../img/background_promociones.jpeg");
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+}
